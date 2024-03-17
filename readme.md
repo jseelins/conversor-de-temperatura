@@ -7,11 +7,11 @@ Clone o Projeto
 
 # via ssh
 
-git clone []
+git clone [git@github.com:jseelins/conversor-de-temperatura.git]
 
 # via https
 
-git clone []
+git clone [https://github.com/jseelins/conversor-de-temperatura.git]
 
 Acesse a pasta do projeto
 cd conversor-de-temperatura
