@@ -26,4 +26,3 @@ Acesse a pasta do projeto
 cd conversor-de-temperatura
 
 Abra o index.html em um navegador da sua preferência ou crie utilize a extensão Live server para criar um servidor local
-![image](https://github.com/jseelins/conversor-de-temperatura/assets/150085472/fc921571-80ef-4704-bd2d-39b7eb866b6e)
