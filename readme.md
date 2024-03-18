@@ -1,3 +1,12 @@
+### Sobre o projeto
+Conversor de Celsius para Fahrenheit, ou vice-versa.
+![image](https://github.com/jseelins/conversor-de-temperatura/assets/150085472/fc921571-80ef-4704-bd2d-39b7eb866b6e)
+
+
+
+
+
+
 Rodar Front
 Instalações necessárias
 VSCode (ou similar)
